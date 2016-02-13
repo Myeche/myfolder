@@ -1,2 +1,2 @@
 # myfolder
-myeche.github.io/myfolder
+http://myeche.github.io/myfolder/
